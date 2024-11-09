@@ -1,1 +1,1 @@
-https://badge.mediaplus.ma/greenbinary/skhaliff
+[![skhaliff's 42 stats](https://badge.mediaplus.ma/greenbinary/skhaliff)](https://github.com/oakoudad/badge42)
