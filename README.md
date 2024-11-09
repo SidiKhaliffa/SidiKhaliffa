@@ -1,0 +1,1 @@
+https://badge.mediaplus.ma/greenbinary/skhaliff
